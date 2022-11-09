@@ -1,0 +1,19 @@
+.finder {
+    margin: 2rem auto;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 12px;
+    max-width: 40rem;
+    text-align: center;
+}
+.input{
+  width: 100%;
+  height: 100%;
+  margin: 0.5%;
+  outline: none;
+  background: rgb(245, 244, 244);
+}
+.input:focus{
+border: 2px solid orange;
+
+}
